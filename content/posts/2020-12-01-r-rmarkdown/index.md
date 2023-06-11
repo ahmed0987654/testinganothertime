@@ -1,5 +1,5 @@
 ---
-title: "Hello R Markdown"
+title: "Te piaciu"
 author: "Frida Gomam"
 date: 2020-12-01T21:13:14-05:00
 categories: ["R"]
@@ -8,7 +8,7 @@ tags: ["R Markdown", "plot", "regression"]
 
 
 
-# R Markdown
+# R ffffff
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
